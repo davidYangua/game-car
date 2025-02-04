@@ -1,4 +1,4 @@
-# DodgeCar_rep
-Es un juego hecho en python usando la libreria pygame
+# DodgeCar
+Para jugarlo, debes usar la libreria pygame
 
-Código hecho por Jorge Navarro
+``` pip install pygame ```
